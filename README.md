@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/leonvlab2004s6/devkit?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/leonvlab2004s6/devkit?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/leonvlab2004s6/devkit?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/leonvlab2004s6/devkit?style=flat-square)
 
 Bootstrap — Ipsatized Data Factor Analytic Profile Analysis — an R package featuring three-stage bootstrap validation
 
